@@ -29,19 +29,19 @@ The workflow above demonstrates how to achieve the objective of this project. Fi
 The first figure below shows that Sumatra has the highest amount of national parks compared to other islands, while Maluku has the fewest. 
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/a-pradono/national_park_indonesia/blob/main/images/plot01.png">
+  <img width="700" height="400" src="https://github.com/a-pradono/national_park_indonesia/blob/main/images/plot01.png">
 </p>
 
 In terms of proportions, Sumatra (22.8%) and Java (21.1%) hold the largest shares of national parks, followed by Sulawesi and Bali and Nusa Tenggara (15.8% each), Kalimantan (14%), Papua (7%), and Maluku (3.5%).
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/a-pradono/national_park_indonesia/blob/main/images/plot02.png">
+  <img width="500" height="500" src="https://github.com/a-pradono/national_park_indonesia/blob/main/images/plot02.png">
 </p>
 
 To make the data easier to explore, an interactive visualization was developed to enhance clarity and improve user's ability to filter national parks by island.
 
 <p align="center">
-  <img width="700" height="500" src="https://github.com/a-pradono/national_park_indonesia/blob/main/images/plot03.gif">
+  <img width="700" height="600" src="https://github.com/a-pradono/national_park_indonesia/blob/main/images/plot03.gif">
 </p>
 
 ## IV. Conclusions
